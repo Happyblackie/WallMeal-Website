@@ -1,0 +1,83 @@
+.img-logo{
+    width: 70px;
+    border-radius:50% ;
+}
+.logo-p{
+    font-style: italic;
+    color: black;
+    font-weight: 900;
+}
+.li-anchors li{
+    margin-left: 12px;
+}
+.home-link{
+    text-decoration: none;
+    margin-top: 8.5px;
+    color: gray;
+}
+.table-font tr{
+    font-size: 15px;
+}
+.a{
+    text-align: center;
+    margin-left: 20px;
+}
+.ms-1{
+    font-size: 10px;
+}
+.li-toppings{
+    list-style-type: none;
+}
+.create-top-div{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+}
+.btn-offcanvas{
+    position: absolute;
+    right: 14px;
+}
+.search-list{
+    display: flex;
+    justify-content: center;
+}
+/* .search-list nav{
+    position: absolute;
+    right: 10px;
+} */
+.pizzaview{
+    text-align: center;
+}
+.image-table{
+    width: 70px;
+}
+.download{
+    background: #333ab7;
+    color: white;
+    text-decoration: none;
+    margin-left: 2px;
+    border-radius: 10px;
+}
+.payform label,input, .btn{
+    margin-top: 20px;
+}
+.form {
+    background: #7b7ead;
+}
+
+.form label,input{
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    font-weight: 800;
+    color: white;   
+}
+
+#search-input{
+    width: 180px;
+    height: 30px;
+    margin-top: 5px;
+    position: absolute;
+    right: 100px;
+}
